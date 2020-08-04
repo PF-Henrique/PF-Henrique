@@ -1,9 +1,6 @@
-### 👋 Hello world, `I'm Pedro` :octocat: Student of computer science at technical school WYDEN Unimetrocamp and programmer who loves solve problems.
+## 👋 Hello world, `I'm Pedro` :octocat: 
+### Student of computer science at technical school WYDEN Unimetrocamp and programmer who loves solve problems.
 Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-end and Back-end. 
-
-🔭 I’m currently working on freelance and projects: [Profile](https://pedro-ferreiraprofile.herokuapp.com/).
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ferreira-148503b8/)](https://www.linkedin.com/in/pedro-ferreira-148503b8/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.21hf@gmail.com)](mailto:pedro.21hf@gmail.com)
 
 ### 📓 Studing
 - Computer Science course University
@@ -20,6 +17,10 @@ Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-en
 
 ### 🚀 Motivation
 I wanna be recoginazed as a great developer and work in greats companies where I can change the world some way.  For 2020 and 2021 I want keep studying programming the maxium I can, and start make my name in this area.
+
+🔭 I’m currently working on freelance and projects: [Profile](https://pedro-ferreiraprofile.herokuapp.com/).
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ferreira-148503b8/)](https://www.linkedin.com/in/pedro-ferreira-148503b8/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.21hf@gmail.com)](mailto:pedro.21hf@gmail.com)
 <!--
 **PF-Henrique/PH-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
