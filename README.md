@@ -15,7 +15,6 @@ Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-en
 ### 📓 Studing
 - Computer Science course University
 - JavaScript stack (Node.js, Angular, ReactJS and React Native)
-- IA
 - MySQL and MongoDB
 - UI/UX design 
 
