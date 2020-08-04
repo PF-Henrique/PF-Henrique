@@ -18,9 +18,30 @@ Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-en
 ### 🚀 Motivation
 I wanna be recoginazed as a great developer and work in greats companies where I can change the world some way.  For 2020 and 2021 I want keep studying programming the maxium I can, and start make my name in this area.
 
-📫 I’m currently working on freelance and projects: [Profile](https://pedro-ferreiraprofile.herokuapp.com/).
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ferreira-148503b8/)](https://www.linkedin.com/in/pedro-ferreira-148503b8/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.21hf@gmail.com)](mailto:pedro.21hf@gmail.com)
+📫 I’m currently working on freelance and projects: 
+ <p align="center">
+   <a href="#" target="_blank" > 
+     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
+  
+  <a href="#" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
+  
+  <a href="#" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a> 
+
+  <a href="https://www.linkedin.com/in/pedro-ferreira-148503b8/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
+  
+  <a href="mailto:pedro.21hf@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
+  
+  <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
+    
+   <a href="https://pedro-ferreiraprofile.herokuapp.com/" target="_blank" >
+    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=google-chrome&logoColor=white"></a>
+    </p>
+
 <!--
 **PF-Henrique/PH-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +55,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://t.me/ialexanderbrito" target="_blank" >
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
 -->
