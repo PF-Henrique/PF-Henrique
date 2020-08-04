@@ -1,7 +1,7 @@
 ### 👋 Hello world, `I'm Pedro` :octocat: Student of computer science at technical school WYDEN Unimetrocamp and programmer who loves solve problems.
 Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-end and Back-end. 
 
-- 🔭 I’m currently working on freelance and projects: [Profile](https://pedro-ferreiraprofile.herokuapp.com/).
+🔭 I’m currently working on freelance and projects: [Profile](https://pedro-ferreiraprofile.herokuapp.com/).
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ferreira-148503b8/)](https://www.linkedin.com/in/pedro-ferreira-148503b8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.21hf@gmail.com)](mailto:pedro.21hf@gmail.com)
 
