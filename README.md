@@ -1,5 +1,5 @@
 ## 👋 Hello world, `I'm Pedro` :octocat: 
-### Student of computer science at technical school WYDEN Unimetrocamp and programmer who loves solve problems.
+### Student of computer science at technical Universety WYDEN Unimetrocamp and programmer who loves solve problems.
 Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-end and Back-end. 
 
 ### 📓 Studing
