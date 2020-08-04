@@ -19,7 +19,7 @@ Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-en
 - UI/UX design 
 
 ### 🚀 Motivation
-I wanna be recoginazed as a great developer and work in greats companies where I can change the world some way.  For 2020 and 2021 I want keep studying programming the maxium I can, and start make my name in this area (and find a job, of course).
+I wanna be recoginazed as a great developer and work in greats companies where I can change the world some way.  For 2020 and 2021 I want keep studying programming the maxium I can, and start make my name in this area.
 <!--
 **PF-Henrique/PH-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
