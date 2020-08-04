@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 <a href="https://t.me/ialexanderbrito" target="_blank" >
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
+    
+    https://github.com/anuraghazra/github-readme-stats
 -->
