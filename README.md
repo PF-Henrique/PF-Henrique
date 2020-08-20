@@ -38,7 +38,7 @@ I wanna be recoginazed as a great developer and work in greats companies where I
   <a href="mailto:pedro.21hf@gmail.com" target="_blank" >
     <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
   
-  <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
+  <a href="https://api.whatsapp.com/send?phone=5519987103269" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
     
    <a href="https://pedro-ferreiraprofile.herokuapp.com/" target="_blank" >
