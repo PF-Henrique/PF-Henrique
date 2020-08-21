@@ -23,13 +23,13 @@ I wanna be recoginazed as a great developer and work in greats companies where I
 </p>
   
  <p align="center">
-   <a href="#" target="_blank" > 
-     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
+<!--    <a href="#" target="_blank" > 
+     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a>  -->
   
-  <a href="#" target="_blank" >
+  <a href="https://www.instagram.com/pee.ferreira/" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
   
-  <a href="#" target="_blank" >
+  <a href="https://www.facebook.com/profile.php?id=100005337139429" target="_blank" >
     <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a> 
 
   <a href="https://www.linkedin.com/in/pedro-ferreira-148503b8/" target="_blank" >
