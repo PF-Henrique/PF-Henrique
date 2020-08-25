@@ -1,4 +1,4 @@
-## 👋 Hello world, `I'm Pedro` :octocat: 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello world, `I'm Pedro` :octocat: 
 ### Student of computer science at university WYDEN Unimetrocamp and programmer who loves solve problems.
 Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-end and Back-end. 
 
