@@ -16,7 +16,7 @@ Full Stack Developer:rocket: from Brazil, I have 3+ years experience in Front-en
 
 
 ### 📓 Studing
-- Computer Science 8° sem
+- Computer Science 
 - Bootcamp GoStack
 - UI/UX design 
 
