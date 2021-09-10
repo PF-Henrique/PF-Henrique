@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello world, `I'm Pedro`  
 ### Student of computer science at university WYDEN Unimetrocamp and programmer who loves solve problems.
-Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-end and Back-end. 
+Full Stack Developer:rocket: from Brazil, I have 3+ years experience in Front-end and Back-end. 
 
 ### 🛠 Experience
 
@@ -23,12 +23,7 @@ Full Stack Developer:rocket: from Brazil, I have 2+ years experience in Front-en
 ### 🚀 Motivation
 I wanna be recoginazed as a great developer and work in greats companies where I can change the world some way.  For 2020 and 2021 I want keep studying programming the maxium I can, and start make my name in this area.
 
-<!-- 
-<p align="center">
-📫 I’m currently working on freelance and projects: 
-</p>
--->
-  
+### 👨‍👩‍👦 Sociais
  <p align="center">
 <!--    <a href="#" target="_blank" > 
      <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a>  -->
